@@ -4,7 +4,7 @@
 	"repository": "https://github.com/xx7661/kunkun-ext-crypto-tiles",
 	"name": "kunkun-ext-crypto-tiles",
 	"private": false,
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"type": "module",
 	"kunkun": {
 		"name": "crypto tiles",
