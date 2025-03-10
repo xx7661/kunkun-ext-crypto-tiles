@@ -1,7 +1,9 @@
 {
 	"$schema": "https://schema.kunkun.sh",
-	"name": "crypto-tiles",
-	"private": true,
+	"license": "MIT",
+	"repository": "https://github.com/xx7661/kunkun-ext-crypto-tiles",
+	"name": "kunkun-ext-crypto-tiles",
+	"private": false,
 	"version": "0.0.1",
 	"type": "module",
 	"kunkun": {
